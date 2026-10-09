@@ -1,0 +1,4 @@
+resources:
+  hr-portal:
+    upstream: http://127.0.0.1:9000
+    allowed_roles: [hr]
